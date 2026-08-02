@@ -10,7 +10,7 @@ const options: swaggerJsdoc.Options = {
         },
         servers: [
             {
-                url: "/docs",
+                url: "/",
             }
         ]
     },
